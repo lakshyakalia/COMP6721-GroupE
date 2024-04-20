@@ -1,1 +1,4 @@
 ./ipynb_checkpoints/*
+.ipynb_checkpoints/ResNet18_Dataset3_MPS-checkpoint.ipynb
+.ipynb_checkpoints/ResNet18_Dataset1_MPS-checkpoint.ipynb
+.ipynb_checkpoints/ResNet18_Dataset2_MPS-checkpoint.ipynb
