@@ -6,3 +6,6 @@ ResNet18/.ipynb_checkpoints/ResNet18_Dataset1_MPS-checkpoint.ipynb
 ResNet18/.ipynb_checkpoints/ResNet18_Dataset2_MPS-checkpoint.ipynb
 ResNet18/.ipynb_checkpoints/ResNet18_Dataset3_MPS-checkpoint.ipynb
 ResNet18/.ipynb_checkpoints/ResNet18_Dataset1_TL_MPS-checkpoint.ipynb
+.ipynb_checkpoints/ShuffleNetV2_DS2_Predictor-checkpoint.ipynb
+Dataset2_ShuffleNet_Optimized.pth
+ShuffleNetV2_DS2_Predictor.ipynb
