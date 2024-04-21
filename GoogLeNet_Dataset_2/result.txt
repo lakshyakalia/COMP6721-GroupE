@@ -1,0 +1,9 @@
+Accuracy on training set: 91.77963344539639%
+Accuracy on validation set: 93.7560975609756%
+
+Accuracy on test set: 94.12022817025012%
+Dataset 2 - Test Metrics
+Accuracy: 94.11764705882352
+Recall: 94.11764705882352
+Precision: 
+F-score: 94.12113943089102
