@@ -9,3 +9,7 @@ ResNet18/.ipynb_checkpoints/ResNet18_Dataset1_TL_MPS-checkpoint.ipynb
 .ipynb_checkpoints/ShuffleNetV2_DS2_Predictor-checkpoint.ipynb
 Dataset2_ShuffleNet_Optimized.pth
 ShuffleNetV2_DS2_Predictor.ipynb
+.ipynb_checkpoints/Dataset1PredictorResNet18-checkpoint.ipynb
+.ipynb_checkpoints/Dataset2PredictorShufflenet-checkpoint.ipynb
+.ipynb_checkpoints/Dataset3PredictorGoogleNet-checkpoint.ipynb
+.DS_Store
