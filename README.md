@@ -21,7 +21,7 @@ level of understanding of our CNN model and help in optimization.
 
 ### Requirements to run python code:
 
-
+All the python code can be ran using Google Colaboratory. Simply upload the ipynb file(s) in Google Colaboratory and change the datasource link to the directory where you downloaded the dataset(s).
 
 ### Instruction on how to train/validate your model:
 
@@ -40,8 +40,10 @@ To use predictor, just change the location of the image to be predicted in the c
 ### Description on how to obtain the Dataset from an available download link:
 <b>Dataset 1(MalayaKew DATASET):</b>
 MalayaKew (MK) Leaf dataset was collected at the Royal Botanic Gardens, Kew, England.
+
 <b>Dataset 2 (Mendeley DataSet):</b>
 Chouhan, Siddharth Singh; Kaul, Ajay; Singh, Uday Pratap; Jain, Sanjeev (2019)
+
 <b>Dataset 3:</b>
 J, ARUN PANDIAN; GOPAL, GEETHARAMANI (2019), “Data for: Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network
 
