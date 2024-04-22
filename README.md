@@ -31,7 +31,7 @@ level of understanding of our CNN model and help in optimization.
 
 
 ### Instructions on how to run the pre-trained model on the provided sample test dataset:
-
+All the codes can be ran from Google Colaboratory. Simply uploda the ipynb file(s) change the url "dataset_url='/content/drive/MyDrive/plant_leaf_dataset/dataset1/'" and run the code.
 
 To use predictor, just change the location of the image to be predicted in the code. Remember to use respective dataset images for respective model predictors.
 
