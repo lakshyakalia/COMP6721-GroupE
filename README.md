@@ -21,7 +21,7 @@ level of understanding of our CNN model and help in optimization.
 
 ### Requirements to run python code:
 
-Contains course material for Intelligent Systems such as Labs and Lectures. References used in schema.ttl file and vocabulary.ttl.
+
 
 ### Instruction on how to train/validate your model:
 
