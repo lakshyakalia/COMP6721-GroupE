@@ -39,15 +39,16 @@ To use predictor, just change the location of the image to be predicted in the c
 
 ### Description on how to obtain the Dataset from an available download link:
 <b>Dataset 1(MalayaKew DATASET):</b>
-MalayaKew (MK) Leaf dataset was collected at the Royal Botanic Gardens, Kew, England.
+MalayaKew Dataset + Ground Truth plant classification dataset
+[Download From](https://web.fsktm.um.edu.my/~cschan/downloads_MKLeaf_dataset.html)
 
 <b>Dataset 2 (Mendeley DataSet):</b>
-Chouhan, Siddharth Singh; Kaul, Ajay; Singh, Uday Pratap; Jain, Sanjeev (2019)
+A Database of Leaf Images: Practice towards Plant Conservation with Plant Pathology
+[Download From](https://data.mendeley.com/datasets/hb74ynkjcn/4)
 
 <b>Dataset 3:</b>
-J, ARUN PANDIAN; GOPAL, GEETHARAMANI (2019), “Data for: Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network
-
-[Download From](http://cs-chan.com/downloads_MKLeaf_dataset.html)
+Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network
+[Download From]([http://cs-chan.com/downloads_MKLeaf_dataset.html](https://www.kaggle.com/datasets/zienabesam/pepper-belly-crop-plantvillage-ds))
 
 
 
