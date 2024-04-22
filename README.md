@@ -4,18 +4,19 @@
 ### Description:
 In today’s time, plant species classification has become a crucial necessity for advancement in the field of medicine and research. Using Convolution Neural Network (CNN) models to train the leaf data enabled not only in faster classification but also reduced the human effort required to a great extent.
 
+![Leaf Image](https://github.com/lakshyakalia/COMP6721-GroupE/blob/main/100%20Images/Dataset2/Mango%20(P0)/0001_0105.JPG)
 
 With regards to the leaf classification, due to various different features evident from distinct plant data, deep learning algorithms provide an edge for the classification issue.
-Here, we are going to use three different CNN models, namely, ResNet, GoogleNet and ShuffleNet. The use of these three different CNN models will enable us to reach
+Here, we used three different CNN models, namely, ResNet, GoogleNet and ShuffleNet. The use of these three different CNN models enabled us to reach
 a point of higher accuracy and lower loss functions. Image pre-processing and augmentation has also been done prior to feeding the data to the models to enable more robust training of all the models. Random Affine, resizing, rotation and auto-contrast are some of the techniques used for data augmentation.
 
-We are also going to perform optimization by tweaking the hyper-parameters such as batch size and learning rate and recording observations and subsequently making the
+We also performed optimization by tweaking the hyper-parameters such as batch size and learning rate and recording observations and subsequently making the
 model much more streamlined with our classification problem.
 
-In the final stages, we are also going to implement Transfer Learning which will help in the better performance of the model along with faster training and the reduction of
+In the final stages, we also implemented Transfer Learning which helped in the better performance of the model along with faster training and the reduction of
 the overfitting problem.
 
-T-SNE will also be used on the ShuffleNet model to visualize the data along with the detection of deviation from the desired results. This will also enable us to get a higher
+T-SNE was also used on the ShuffleNet model to visualize the data along with the detection of deviation from the desired results. This enabled us to get a higher
 level of understanding of our CNN model and help in optimization.
 
 ### Requirements to run python code:
