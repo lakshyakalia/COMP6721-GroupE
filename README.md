@@ -38,6 +38,15 @@ To use predictor, just change the location of the image to be predicted in the c
 <b>Note: </b> Predictors names are included with which dataset to predict.
 
 ### Description on how to obtain the Dataset from an available download link:
+<b>Dataset 1(MalayaKew DATASET):</b>
+MalayaKew (MK) Leaf dataset was collected at the Royal Botanic Gardens, Kew, England.
+<b>Dataset 2 (Mendeley DataSet):</b>
+Chouhan, Siddharth Singh; Kaul, Ajay; Singh, Uday Pratap; Jain, Sanjeev (2019)
+<b>Dataset 3:</b>
+J, ARUN PANDIAN; GOPAL, GEETHARAMANI (2019), “Data for: Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network
+
+![Download From]([https://github.com/lakshyakalia/COMP6721-GroupE/blob/main/100%20Images/Dataset2/Mango%20(P0)/0001_0105.JPG](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9631212))
+
 
 
 
