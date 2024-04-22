@@ -51,7 +51,7 @@ A Database of Leaf Images: Practice towards Plant Conservation with Plant Pathol
 <b>Dataset 3:</b>
 Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network
 
-[Download From]([http://cs-chan.com/downloads_MKLeaf_dataset.html](https://www.kaggle.com/datasets/zienabesam/pepper-belly-crop-plantvillage-ds)
+[Download From](http://cs-chan.com/downloads_MKLeaf_dataset.html](https://www.kaggle.com/datasets/zienabesam/pepper-belly-crop-plantvillage-ds)
 
 
 
