@@ -45,7 +45,7 @@ Chouhan, Siddharth Singh; Kaul, Ajay; Singh, Uday Pratap; Jain, Sanjeev (2019)
 <b>Dataset 3:</b>
 J, ARUN PANDIAN; GOPAL, GEETHARAMANI (2019), “Data for: Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network
 
-![Download From]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9631212])
+![Download From](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9631212)
 
 
 
